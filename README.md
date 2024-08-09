@@ -115,9 +115,6 @@ Social media bombing involves the mass sending of messages or requests to a plat
 Certainly! Here’s a detailed explanation for the section on **"What Exactly It Is"** regarding social media bombing:
 
 ---
-
-## What Exactly It Is
-
 ### Overview
 Social media bombing involves the mass sending of messages, requests, or actions to a platform with the intention of causing disruption, annoyance, or other forms of interference. This malicious activity can target individuals, groups, or entire platforms, and it is typically carried out using automated tools or scripts.
 
