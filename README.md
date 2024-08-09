@@ -43,7 +43,23 @@ https://link.springer.com/article/10.1007/s10207-023-00796-7
 
 
 ## Tools
-This section provides an overview of the tools commonly used for social media bombing. It includes an analysis of how these tools function and their potential impact. Please note that this information is for educational and defensive purposes only.
+Tools
+1) Spammer Bot Scripts
+Beast_Bomber: This repository provides a Python script designed for spamming on platforms like Discord. It leverages various Python libraries and modules to automate the process.
+Link: Beast_Bomber GitHub Repository
+Note: The script includes several import statements for libraries such as fade, ctypes, asyncio, aiohttp, and others that assist in the spamming process. These libraries handle everything from creating random strings to managing proxies and user agents.
+2) Raid Tools
+Discord Raid Bot: These tools are designed to execute coordinated raids on Discord servers by spamming messages or exploiting server vulnerabilities.
+Link 1: Raid Tool on top.gg
+Link 2: Five-nuker GitHub Repository
+3) WhatsApp Bomber
+WhatsApp Bomber Tools: These tools are designed to flood a WhatsApp contact with an overwhelming number of messages, potentially causing the app to freeze or crash.
+Link 1: WhatsApp Bomber Toolground
+Link 2: WhatsApp Bomber Great Online Tools
+4) WhatsApp Flood Bot
+WhatsApp Flood Bot: This bot allows users to automate the sending of repeated messages to a WhatsApp contact, functioning as a more advanced version of a traditional bomber.
+Link: WhatsApp Flood Bot GitHub Repository
+
 
 
 ### Tool Overview
